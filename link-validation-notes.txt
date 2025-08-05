@@ -1,0 +1,10 @@
+CTA Button: "CLAIM YOUR iPHONE"  
+Hover link status: Unknown (not visible)
+
+Recommendation:
+- If the link does NOT go to a valid Internshala domain (e.g. https://internshala.com), it's suspicious.
+- If link uses URL shorteners or external tracking sites, it may be phishing.
+
+Example:  
+Valid → https://internshala.com/isp  
+Suspicious → http://internshala-rewards.giftclaim.co/isp
