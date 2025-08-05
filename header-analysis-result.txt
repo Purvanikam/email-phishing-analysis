@@ -1,0 +1,8 @@
+Note: Header info was not fully visible.
+
+Assumed based on common behavior:
+- SPF: Unknown
+- DKIM: Unknown
+- DMARC: Unknown
+- Display Name: "ISP Team"
+- Sender Email: Not visible — possibly spoofed or misleading
